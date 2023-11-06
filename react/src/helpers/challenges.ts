@@ -254,6 +254,17 @@ export const challenges = new Map<string, Challenge>([
     },
   ],
   [
+    'traffic-lights',
+    {
+      title: 'Traffic Lights',
+      link: 'traffic-lights',
+      difficulty: 'medium',
+      developer: 'rishabhm05',
+      tags: [],
+      isNew: true,
+    },
+  ],
+  [
     'email-templates',
     {
       title: 'Email Templates',
